@@ -10,7 +10,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Preview
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshot.PNG)
 
 ## Getting Started
 
